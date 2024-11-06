@@ -1,2 +1,2 @@
-# excel-investment-portfolio
+# Investment Portfolio
 Portfolio inwestycyjne w Excelu
